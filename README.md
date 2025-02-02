@@ -57,5 +57,7 @@ Click the Reset All button to clear all entries and start over.
 
 Preview
 
-![Screenshot (136)](https://github.com/user-attachments/assets/f546901c-2c0b-4fe6-9b7d-22b7d1b8c22d)
+![Screenshot (137)](https://github.com/user-attachments/assets/1511e672-5fb0-481e-b302-4ec66daed923)
+
+
 
